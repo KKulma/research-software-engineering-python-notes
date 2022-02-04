@@ -1,0 +1,1 @@
+Notes from [Research Software Engineering with Python](https://merely-useful.tech/py-rse/index.html)
